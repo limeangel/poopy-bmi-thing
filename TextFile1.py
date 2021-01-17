@@ -1,4 +1,5 @@
 #INSTRUCTIONS
+#there is no UI yet cause I have no time and im lazy so for now this is how u use it
 #if you want your BMi with metric measurements, type "Yes" below. to go back to imperial, type "No".
 change_system = "No"
 #enter your weight in pounds or kgs
