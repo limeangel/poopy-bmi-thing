@@ -8,7 +8,7 @@ ftheight = 5
 #enter your height in Inches or leave with 0 if metric is selected
 inchheight = 5
 #dont touch any of this lol
-ddsajfiwijsjdiaijdj = "evans bmi calculator copyright 2020 @evanhauffen v 1.0"
+ddsajfiwijsjdiaijdj = "open source bmi calculator v0.1"
 print(ddsajfiwijsjdiaijdj)
 disclaimer = "Ignore all text except for the top and the very bottom."
 print(disclaimer)
